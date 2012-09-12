@@ -6,7 +6,7 @@ size(600, 600);
 }
 
 void draw () {
-background(0, 100, 100);
+background(0, 100, 200);
 
 //these are the eyes
 stroke(50, 175, 100);
